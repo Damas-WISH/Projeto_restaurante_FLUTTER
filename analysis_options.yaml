@@ -1,0 +1,5 @@
+include: package:flutter_lints/flutter.yaml
+dependencies:
+flutter:
+sdk: flutter
+provider: ^6.0.5
